@@ -1,0 +1,16 @@
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/bin/Debug/net8.0/StreamingContentRepository.deps.json
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/bin/Debug/net8.0/StreamingContentRepository.dll
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/bin/Debug/net8.0/StreamingContentRepository.pdb
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/bin/Debug/net8.0/StreamingContentData.dll
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/bin/Debug/net8.0/StreamingContentData.pdb
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/obj/Debug/net8.0/StreamingContentRepository.csproj.AssemblyReference.cache
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/obj/Debug/net8.0/StreamingContentRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/obj/Debug/net8.0/StreamingContentRepository.AssemblyInfoInputs.cache
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/obj/Debug/net8.0/StreamingContentRepository.AssemblyInfo.cs
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/obj/Debug/net8.0/StreamingContentRepository.csproj.CoreCompileInputs.cache
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/obj/Debug/net8.0/StreamingContentRepository.sourcelink.json
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/obj/Debug/net8.0/StreamingContentRepository.csproj.CopyComplete
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/obj/Debug/net8.0/StreamingContentRepository.dll
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/obj/Debug/net8.0/refint/StreamingContentRepository.dll
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/obj/Debug/net8.0/StreamingContentRepository.pdb
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/obj/Debug/net8.0/ref/StreamingContentRepository.dll

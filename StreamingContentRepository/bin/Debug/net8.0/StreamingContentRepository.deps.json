@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StreamingContentRepository/1.0.0": {
+        "dependencies": {
+          "StreamingContentData": "1.0.0"
+        },
+        "runtime": {
+          "StreamingContentRepository.dll": {}
+        }
+      },
+      "StreamingContentData/1.0.0": {
+        "runtime": {
+          "StreamingContentData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamingContentRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StreamingContentData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

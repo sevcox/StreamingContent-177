@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StreamingContentUI/1.0.0": {
+        "runtime": {
+          "StreamingContentUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamingContentUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

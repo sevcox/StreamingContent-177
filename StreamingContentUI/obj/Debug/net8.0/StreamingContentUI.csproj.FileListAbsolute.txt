@@ -1,0 +1,15 @@
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/bin/Debug/net8.0/StreamingContentUI
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/bin/Debug/net8.0/StreamingContentUI.deps.json
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/bin/Debug/net8.0/StreamingContentUI.runtimeconfig.json
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/bin/Debug/net8.0/StreamingContentUI.dll
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/bin/Debug/net8.0/StreamingContentUI.pdb
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/StreamingContentUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/StreamingContentUI.AssemblyInfoInputs.cache
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/StreamingContentUI.AssemblyInfo.cs
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/StreamingContentUI.csproj.CoreCompileInputs.cache
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/StreamingContentUI.sourcelink.json
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/StreamingContentUI.dll
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/refint/StreamingContentUI.dll
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/StreamingContentUI.pdb
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/StreamingContentUI.genruntimeconfig.cache
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/ref/StreamingContentUI.dll
