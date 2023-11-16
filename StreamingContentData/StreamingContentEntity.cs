@@ -1,6 +1,6 @@
 namespace StreamingContentData;
 using StreamingContentData.Enums;
-public abstract class StreamingContentEntity
+public class StreamingContentEntity
 {
 
     // application - user can keep an up to date list of streaming content

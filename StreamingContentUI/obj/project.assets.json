@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "StreamingContentData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/StreamingContentData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StreamingContentData.dll": {}
+        }
+      },
+      "StreamingContentRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "StreamingContentData": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StreamingContentRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StreamingContentRepository.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "StreamingContentData/1.0.0": {
+      "type": "project",
+      "path": "../StreamingContentData/StreamingContentData.csproj",
+      "msbuildProject": "../StreamingContentData/StreamingContentData.csproj"
+    },
+    "StreamingContentRepository/1.0.0": {
+      "type": "project",
+      "path": "../StreamingContentRepository/StreamingContentRepository.csproj",
+      "msbuildProject": "../StreamingContentRepository/StreamingContentRepository.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "StreamingContentData >= 1.0.0",
+      "StreamingContentRepository >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/severacox/.nuget/packages/": {}
@@ -31,7 +69,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentData/StreamingContentData.csproj": {
+              "projectPath": "/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentData/StreamingContentData.csproj"
+            },
+            "/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/StreamingContentRepository.csproj": {
+              "projectPath": "/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentRepository/StreamingContentRepository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

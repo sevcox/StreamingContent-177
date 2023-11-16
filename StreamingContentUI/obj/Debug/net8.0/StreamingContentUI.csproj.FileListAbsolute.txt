@@ -13,3 +13,9 @@
 /Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/StreamingContentUI.pdb
 /Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/StreamingContentUI.genruntimeconfig.cache
 /Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/ref/StreamingContentUI.dll
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/bin/Debug/net8.0/StreamingContentData.dll
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/bin/Debug/net8.0/StreamingContentRepository.dll
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/bin/Debug/net8.0/StreamingContentRepository.pdb
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/bin/Debug/net8.0/StreamingContentData.pdb
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/StreamingContentUI.csproj.AssemblyReference.cache
+/Users/severacox/Desktop/EFA/StreamingContent-177/StreamingContentUI/obj/Debug/net8.0/StreamingContentUI.csproj.CopyComplete

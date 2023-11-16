@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingContentUI", "Strea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingContentRepository", "StreamingContentRepository\StreamingContentRepository.csproj", "{2ED31C8C-AC91-47E3-9689-3353E0AB803A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingContentRepositoryTests", "StreamingContentRepositoryTests\StreamingContentRepositoryTests.csproj", "{9F561BF3-6021-4AA8-92BA-CBEB6D168039}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{2ED31C8C-AC91-47E3-9689-3353E0AB803A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ED31C8C-AC91-47E3-9689-3353E0AB803A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ED31C8C-AC91-47E3-9689-3353E0AB803A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F561BF3-6021-4AA8-92BA-CBEB6D168039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F561BF3-6021-4AA8-92BA-CBEB6D168039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F561BF3-6021-4AA8-92BA-CBEB6D168039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F561BF3-6021-4AA8-92BA-CBEB6D168039}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

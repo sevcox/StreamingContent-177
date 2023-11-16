@@ -9,9 +9,19 @@ public class StreamingContentRepository
 
     // CRUD
     // Create Method
-    public void AddContent(StreamingContentEntity content)
+    public bool AddContent(StreamingContentEntity content)
     {
+        int startingCount = _contentDb.Count;
         _contentDb.Add(content);
+
+        if(_contentDb.Count > startingCount)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
     // Read Method
     public List<StreamingContentEntity> GetAllStreamingContent()
@@ -33,9 +43,32 @@ public class StreamingContentRepository
         //_contentDb.SingleOrDefault(c => c.Title == title);
     }
     // Update Method
-    // Delete Method
-    public void DeleteExistingContent(StreamingContentEntity content)
+    public bool UpdateExistingContent (string originalTitle, StreamingContentEntity updatedData)
     {
-        _contentDb.Remove(content);
+        // retrieve streaming content object from our collection by title
+        StreamingContentEntity entityInDb = GetStreamingContentByTitle(originalTitle);
+        if(entityInDb != null)
+        {
+            // update the object with the properties that I am wanting updated
+            entityInDb.Title = updatedData.Title;
+            entityInDb.Location = updatedData.Location;
+            entityInDb.StarRating = updatedData.StarRating;
+            entityInDb.MaturityRating = updatedData.MaturityRating;
+            entityInDb.Description = updatedData.Description;
+            entityInDb.GenreType = updatedData.GenreType;
+
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+    // Delete Method
+    public bool DeleteExistingContent(StreamingContentEntity content)
+    {
+        bool deleteResult = _contentDb.Remove(content);
+        return deleteResult;
     }
 }
