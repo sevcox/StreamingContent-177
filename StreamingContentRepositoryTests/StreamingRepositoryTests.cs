@@ -73,4 +73,43 @@ public class StreamingRepositoryTests
 
         Assert.Equal(expected, actual);
     }
+
+    [Fact]
+    public void GetMovieByTitle()
+    {
+        //* Act
+        Movie retrivedMovie = _repo.GetMovieByTitle("BaD BoYs");
+
+        Movie expected = _movieA;
+        Movie actual = retrivedMovie;
+
+        //* Assert
+        Assert.Equal(expected, actual);
+    }
+
+    [Fact]
+    public void GetAllShows()
+    {
+        //* Act
+        List<Show> retrievedShows = _repo.GetAllShows();
+
+        int expectedCount = 1;
+        int actual = retrievedShows.Count;
+
+        //* Assert
+        Assert.Equal(expectedCount, actual);
+    }
+
+    [Fact]
+    public void GetAllMovies()
+    {
+        //* Act
+        List<Movie> retrievedMoives = _repo.GetAllMovies();
+
+        int expectedCount = 2;
+        int actual = retrievedMoives.Count;
+
+        //* Assert
+        Assert.Equal(expectedCount,actual);
+    }
 }
